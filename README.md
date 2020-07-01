@@ -1,5 +1,5 @@
 # applied_notebooks
-Python and Octave scripts and database for paper 'User-level Handover Decision Making Based on Machine Learning'.
+Python and Octave scripts and database for paper 'User-level Handover Decision Making Based on Machine Learning Algorithms'.
 Authors:
 - João Paulo S. H. Lima
 - Matheus H. A. Miranda
