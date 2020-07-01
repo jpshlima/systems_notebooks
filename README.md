@@ -11,6 +11,7 @@ Authors:
          
 The scripts are divided in classification and regression tasks, for Scenarios 1 and 2.
 In addition, the classification task employs Python and Octave algorithms, whereas regression uses only Python.
+It is advised to start with 'python_classification_scenario01.ipynb'.
 
 The other files are data collected from simulation campaigns in ns-3.
 
