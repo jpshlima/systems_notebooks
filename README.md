@@ -1,5 +1,5 @@
 # applied_notebooks
-Python and Octave scripts and database for paper 'User-level Handover Decision Making Based on Machine Learning Algorithms'.
+The scripts written as Jupyter notebooks (.ipynb) and database for paper 'User-level Handover Decision Making Based on Machine Learning Algorithms' are found in this repository.
 Authors:
 - João Paulo S. H. Lima
 - Matheus H. A. Miranda
@@ -10,5 +10,8 @@ Authors:
 - Ycaro R. Dantas
          
 The scripts are divided in classification and regression tasks, for Scenarios 1 and 2.
+In addition, the classification task employs Python and Octave algorithms, whereas regression uses only Python.
+
+The other files are data collected from simulation campaigns in ns-3.
 
 Feel free to contact joao.lima@engenharia.ufjf.br
