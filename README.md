@@ -10,9 +10,13 @@ Authors:
 - Ycaro R. Dantas
          
 The scripts are divided in classification and regression tasks, for Scenarios 1 and 2.
-In addition, the classification task employs Python and Octave algorithms, whereas regression uses only Python.
+In addition, the classification task employs Python and Matlab algorithms, whereas regression uses only Python.
 It is advised to start with 'python_classification_scenario01.ipynb'.
 
-The other files are data collected from simulation campaigns in ns-3.
+The Matlab files are all kept in a specific folder. Inside, you can find .mat variables used to feed our
+algorithms. These .mat files contain exactly the same data used in Python scripts.
 
-Feel free to contact joao.lima@engenharia.ufjf.br
+The other files in root repository are the data collected from simulation campaigns in ns-3.
+
+The database and the code are available to be reproduced. Please cite our work.
+Feel free to contact me at joao.lima@engenharia.ufjf.br
