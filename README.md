@@ -1,4 +1,4 @@
-# applied_notebooks
+# systems_notebooks
 The scripts written as Jupyter notebooks (.ipynb) and database for paper 'User-level Handover Decision Making Based on Machine Learning Algorithms' are found in this repository.
 Authors:
 - João Paulo S. H. Lima
