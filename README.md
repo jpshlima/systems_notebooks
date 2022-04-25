@@ -64,7 +64,7 @@ pages={271-289}
 - Tarciana C. B. Guerra
 
 ## Acknowledgments
-- This study was financed in part by FUNTTEL/Finep and the Coordena\c{c}\~{a}o de Aperfei\c{c}oamento de Pessoal de N\'{i}vel Superior - Brasil (CAPES) - Finance Code 001;
+- This study was financed in part by FUNTTEL/Finep and the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001;
 - This work was supported by GppCom reasearch group [https://gppcom.ct.ufrn.br/](https://gppcom.ct.ufrn.br/);
 - The proof of concept simulations provided by this Letter was supported by High Performance Computing Center~(NPAD/UFRN).
 
