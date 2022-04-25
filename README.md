@@ -66,7 +66,7 @@ pages={271-289}
 ## Acknowledgments
 - This study was financed in part by FUNTTEL/Finep and the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001;
 - This work was supported by GppCom reasearch group [https://gppcom.ct.ufrn.br/](https://gppcom.ct.ufrn.br/);
-- The proof of concept simulations provided by this Letter was supported by High Performance Computing Center~(NPAD/UFRN).
+- The proof of concept simulations provided by this Letter was supported by High Performance Computing Center (NPAD/UFRN).
 
 
 <!--
