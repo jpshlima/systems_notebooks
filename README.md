@@ -65,6 +65,13 @@ pages={271-289}
 
 
 <!--
+
+## Related academic works
+- Conference paper: Sistemas Fuzzy aplicados ao Handover em Redes LTE com Falhas de Cobertura (Link: [https://gppcom.ct.ufrn.br/index.php/2019/10/01/sistemas-fuzzy-aplicados-ao-handover-em-redes-lte-com-falhas-de-cobertura/](https://gppcom.ct.ufrn.br/index.php/2019/10/01/sistemas-fuzzy-aplicados-ao-handover-em-redes-lte-com-falhas-de-cobertura/));
+- Conference paper: Handover Baseado em Aprendizado de Máquina para Redes LTE com Falhas de Cobertura (Link: [https://biblioteca.sbrt.org.br/articles/1947](https://biblioteca.sbrt.org.br/articles/1947)).
+- Journal paper: A Machine Learning Approach for Handover in LTE Networks with Signal Obstructions (DOI: [https://doi.org/10.14209/jcis.2020.28](https://doi.org/10.14209/jcis.2020.28));
+- Master Thesis: Machine learning based handover management for LTE Networks with coverage Holes (Link: [https://repositorio.ufrn.br/handle/123456789/26678](https://repositorio.ufrn.br/handle/123456789/26678));
+
 # systems_notebooks
 The scripts written as Jupyter notebooks (.ipynb) and database for paper 'User-Level Handover Decision Making Based on Machine Learning Algorithms' are found in this repository.
 Authors:
