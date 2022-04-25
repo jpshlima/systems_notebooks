@@ -47,7 +47,8 @@ author={Cabral de Brito Guerra, Tarciana and Dantas, Ycaro and Sousa Jr, Vicente
 year={2020}, 
 month={Nov.}, 
 pages={271-289} 
-}```
+}
+```
 
 ## Related academic works
 - Conference paper: Sistemas Fuzzy aplicados ao Handover em Redes LTE com Falhas de Cobertura (Link: [https://gppcom.ct.ufrn.br/index.php/2019/10/01/sistemas-fuzzy-aplicados-ao-handover-em-redes-lte-com-falhas-de-cobertura/](https://gppcom.ct.ufrn.br/index.php/2019/10/01/sistemas-fuzzy-aplicados-ao-handover-em-redes-lte-com-falhas-de-cobertura/));
