@@ -23,15 +23,13 @@ If you use our scripts and dataset, please cite our JCIS papers. Here is a suita
 ```python
 @article{joao_2022, 
 title={User-Level Handover Decision Making Based on Machine Learning Approaches}, 
-volume={TBD}, 
-url={TBD}, 
-DOI={TBD}, 
-number={TBD}, 
+volume={37},  
+DOI={10.14209/jcis.2022.11}, 
+number={1}, 
 journal={Journal of Communication and Information Systems}, 
 author={João P. S. H. Lima and Alvaro A. M. de Medeiros, Eduardo P. de Aguiar, Vicente A. de Sousa Jr. and Tarciana C. B. Guerra}, 
-year={2022}, 
-month={TBD}, 
-pages={TBD} 
+year={2022},  
+pages={104--108} 
 }
 ```
 
