@@ -51,7 +51,7 @@ pages={271-289}
 
 ## People
 - João Paulo S. H. Lima
-- A. M. de Medeiros
+- Alvaro A. M. de Medeiros
 - Eduardo P. de Aguiar
 - Vicente A. de Sousa Jr
 - Tarciana C. B. Guerra
